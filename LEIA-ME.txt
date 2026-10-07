@@ -1,0 +1,19 @@
+TEMAK HOUSE — PACOTE PARA PUBLICAÇÃO
+
+1. Extraia o ZIP.
+2. Crie um repositório NOVO e vazio no GitHub.
+3. Envie TODO o conteúdo extraído, incluindo assets/, para a raiz.
+4. Importe o novo repositório na Vercel.
+   Framework Preset: Other
+   Root Directory: ./ (raiz)
+   Build Command: vazio
+   Install Command: vazio
+   Output Directory: .
+5. Deploy.
+
+O vercel.json já configura a publicação estática. Não precisa de npm, Node,
+server.mjs, build.mjs ou funções de servidor. Não misture com o pacote anterior.
+
+O cardápio digital completo, idiomas, imagens, logo e animações estão incluídos.
+O PDF original não integra este pacote; seus links foram retirados desta cópia.
+Os arquivos HTML, CSS e JavaScript são editáveis diretamente.
